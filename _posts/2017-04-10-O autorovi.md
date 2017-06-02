@@ -1,4 +1,9 @@
-﻿V mém první postu bych Vám chtěla přiblížit Anderse de la Motteho.
+﻿---
+ layout: post
+ title: o autorovi
+ ---
+ V mém první postu bych Vám chtěla přiblížit Anderse de la Motteho.
+ 
 
 Narodil se 19. června 1971. Anders je švédský spisovatel. Pracoval jako policista, šéf ochranky v IT firmě a mezinárodní konzultant bezpečnostních služeb. 
 Proslavil se trilogií knih Game, Buzz a Bubble, kde zpracoval téma nebezpečí zneužívání informační technologie a manipulace.
