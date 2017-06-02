@@ -1,7 +1,7 @@
-﻿---
- layout: post
- title: o autorovi
- ---
+---
+title: o autorovi
+layout: post
+---
  V mém první postu bych Vám chtěla přiblížit Anderse de la Motteho.
  
 
